@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Certified Cloud Professional/Introduction.md",
+                "file": "AWS Certified Cloud Professional/CLF-C02 Exam Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "CLF-C02 Exam Overview"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Certified Cloud Professional/Introduction.md",
+                "file": "AWS Certified Cloud Professional/CLF-C02 Exam Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks for CLF-C02 Exam Overview"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Certified Cloud Professional/Introduction.md",
+                "file": "AWS Certified Cloud Professional/CLF-C02 Exam Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction"
+              "title": "Outgoing links from CLF-C02 Exam Overview"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Certified Cloud Professional/Introduction.md",
+                "file": "AWS Certified Cloud Professional/CLF-C02 Exam Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of CLF-C02 Exam Overview"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "a079dae7fbca5e5b",
   "lastOpenFiles": [
-    "AWS Certified Cloud Professional/Index.md",
+    "README.md",
+    "AWS Certified Cloud Professional/CLF-C02 Exam Overview.md",
     "AWS Certified Cloud Professional/Introduction.md",
     "AWS Certified Cloud Professional/Untitled",
-    "README.md",
     "AWS Certified Cloud Professional"
   ]
 }
