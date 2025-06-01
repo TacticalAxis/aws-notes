@@ -1,2 +1,6 @@
 - Explain the **value** of AWS Cloud
-- Understand and 
+- Understand and explain the AWS shared responsibility model
+- Understand security best practices
+- Understand AWS Cloud costs, economics, and billing practices.
+- Describe and position the core AWS services, including compute, network, database, and storage services
+- Identify AWS services 
