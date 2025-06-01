@@ -1,0 +1,2 @@
+- Explain the **value** of AWS Cloud
+- Understand and 
