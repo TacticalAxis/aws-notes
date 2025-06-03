@@ -18,7 +18,7 @@ Explain how to use pricing tools to make cost-effective choices for AWS services
 
 **Course outline**
 
-**Module 1: Introduction to Amazon Web Services**
+[[Module 1 - Introduction to Amazon Web Services]]
 Summarize the benefits of AWS    
 Describe differences between on-demand delivery and cloud deployments    
 Summarize the pay-as-you-go pricing model
