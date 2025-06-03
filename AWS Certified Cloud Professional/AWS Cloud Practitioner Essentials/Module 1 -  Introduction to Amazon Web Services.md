@@ -12,4 +12,6 @@ AWS Service Offerings
 - Artificial Intelligence
 - Robot Development
 - Video Production
-- Orbital Sate
+- Orbital Satellites
+
+Fundamental Cloud Compute Model
