@@ -16,4 +16,5 @@
 
 **Fundamental Cloud Compute Model**
 - Most systems centered around client/server model
-- A client makes a request, and with permissions, the server 
+- A client makes a request, and with permissions, the server responds to that requests
+- In AWS, the server is an EC2 instance - an [[Elastic Cloud Compute]]
