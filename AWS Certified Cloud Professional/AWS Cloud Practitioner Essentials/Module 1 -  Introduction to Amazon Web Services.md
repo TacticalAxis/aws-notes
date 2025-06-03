@@ -37,3 +37,8 @@ Cloud Computing is on-demand delivery of IT resources over the internet with pay
 
 On-demand delivery: Indicates AWS has the resources you need when you need them
 *If you need 300 servers, you don't need to request it, you just scale it yourself
+*If you need more space, just use it when required, and return it when you don't need*
+*This flexibility isn't available on-prem*
+
+IT Resources: this is a big par
+
