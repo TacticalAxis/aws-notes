@@ -3,7 +3,7 @@
 - Describe differences between on-demand delivery & cloud deployments
 - Summarise the PAYG (pay as you go) pricing model
 
-AWS Service Offerings
+**AWS Service Offerings**
 - Compute
 - Storage
 - Network Scurity
@@ -14,4 +14,5 @@ AWS Service Offerings
 - Video Production
 - Orbital Satellites
 
-Fundamental Cloud Compute Model
+**Fundamental Cloud Compute Model**
+- All 
