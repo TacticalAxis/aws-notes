@@ -74,4 +74,8 @@ Cloud computing models:
 
 Benefits of cloud computing
 - trade upfront expense for variable expense
-- stop spending money to run and ma
+- stop spending money to run and maintain data centres
+- stop guessing capacity
+- benefit from massive [[Economies of scale]]
+- increase speed and agility
+- go global in minutes
