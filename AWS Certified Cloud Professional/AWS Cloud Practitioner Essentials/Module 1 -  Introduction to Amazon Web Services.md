@@ -63,6 +63,7 @@ Cloud computing models:
 	- all parts of the application run in the cloud
 	- migrate all existing applications to the cloud
 	- design/build new applications in the cloud
-	- e.g. a company creates an application purely in the cloud
+	- e.g. a company creates an application purely in the cloud (virtual servers, databases, and network components)
 - on-prem
+	- deploy resources with virtualisation & resource management tools
 - hybrid
