@@ -69,4 +69,9 @@ Cloud computing models:
 	- increase resource usage using application management and virtualisation technologies
 	- also known as private-cloud deployment
 - hybrid
-	- connect cloud-based resources to on
+	- connect cloud-based resources to on-prem infrastructure
+	- integrate cloud-based resources with legacy apps
+
+Benefits of cloud computing
+- trade upfront expense for variable expense
+- stop spending money to run and ma
