@@ -61,6 +61,8 @@ Factors to consider when selecting a cloud strategy:
 Cloud computing models:
 - cloud-based
 	- all parts of the application run in the cloud
-	- migrate all 
+	- migrate all existing applications to the cloud
+	- design/build new applications in the cloud
+	- e.g. a company creates an application purely in the cloud
 - on-prem
 - hybrid
