@@ -45,4 +45,6 @@ IT Resources: this is a big part of AWS philospohy. AWS has so many products bec
 Undifferentiated heavy lifting of IT
 - If there is a product/service that is common among different businesses, then this is not a market differentiator
 - For example: your business being better than another based on how well you install some particular software; in the same way keeping backups doesn't make you better than your competition
-- Tasks that are common, repetitive, or time consuming, are what AWS helps us with so business can focus on what ma
+- Tasks that are common, repetitive, or time consuming, are what AWS helps businesses with so business can focus on what makes them unique
+
+Over the internet: 
