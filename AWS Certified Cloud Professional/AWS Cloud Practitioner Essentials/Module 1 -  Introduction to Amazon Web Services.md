@@ -25,5 +25,6 @@
 - In more mature systems, things can get very complex
 
 Key Concept: *You only pay for what you use*
-- You can always have many systems serving requests
-- If there is low demand, then there's no point to running every system, since that's a waste of money, as the demand isn't high enough to justify their exista
+- You can always have many servers serving requests
+- Demand isn't always high enough to justify running all the servers (peak demand & low demand)
+- 
