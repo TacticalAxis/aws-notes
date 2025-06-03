@@ -21,4 +21,8 @@
 - Sequence
 	- User makes request to server
 	- Server validates the request was legit
-	- 
+	- Server makes response
+- In more mature systems, things can get very complex
+
+Key Concept: *You only pay for what you use*
+
