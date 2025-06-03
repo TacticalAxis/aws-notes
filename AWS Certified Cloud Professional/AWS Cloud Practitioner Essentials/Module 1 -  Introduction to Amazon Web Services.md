@@ -31,3 +31,8 @@ Key Concept: *You only pay for what you use*
 - You can't instantly triple capacity if required
 - With AWS you don't prepay for services, therefore you don't need to worry about capacity constraints
 - With a click of a button, you can scale up to more servers or less
+
+**Cloud Computing**
+Cloud Computing is on-demand delivery of IT resources over the internet with pay-as-you-go pricing
+
+On-demand-

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic Compute Cloud.md",
+                "file": "AWS Certified Cloud Professional/AWS Cloud Practitioner Essentials/Module 1 -  Introduction to Amazon Web Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elastic Compute Cloud"
+              "title": "Module 1 -  Introduction to Amazon Web Services"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "0e51e3281fcc472e",
   "lastOpenFiles": [
-    "AWS Certified Cloud Professional/AWS Cloud Practitioner Essentials/Module 1 -  Introduction to Amazon Web Services.md",
     "Elastic Compute Cloud.md",
+    "AWS Certified Cloud Professional/AWS Cloud Practitioner Essentials/Module 1 -  Introduction to Amazon Web Services.md",
     "AWS Certified Cloud Professional/CLF-C02 Exam Overview.md",
     "AWS Certified Cloud Professional/AWS Cloud Practitioner Essentials",
     "Untitled.md",
