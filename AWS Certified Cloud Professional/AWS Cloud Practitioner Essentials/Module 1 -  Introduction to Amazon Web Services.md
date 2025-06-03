@@ -66,4 +66,7 @@ Cloud computing models:
 	- e.g. a company creates an application purely in the cloud (virtual servers, databases, and network components)
 - on-prem
 	- deploy resources with virtualisation & resource management tools
+	- increase resource usage using application management and virtualisation technologies
+	- also known as private-cloud deployment
 - hybrid
+	- connect cloud-based resources to on
