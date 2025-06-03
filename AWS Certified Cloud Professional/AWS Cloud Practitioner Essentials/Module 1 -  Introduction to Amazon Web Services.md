@@ -40,5 +40,6 @@ On-demand delivery: Indicates AWS has the resources you need when you need them
 *If you need more space, just use it when required, and return it when you don't need*
 *This flexibility isn't available on-prem*
 
-IT Resources: this is a big par
-
+IT Resources: this is a big part of AWS philospohy. AWS has so many products because businesses need them.
+- If there is a product/service that is common among different businesses, then this is not a market differentiator
+- 
