@@ -55,4 +55,12 @@ Pay-as-you-go pricing: Pay only for what you use
 
 Factors to consider when selecting a cloud strategy:
 - required cloud application components
-- pre
+- preferred resource management tools
+- legacy IT infrastructure requirements
+
+Cloud computing models:
+- cloud-based
+	- all parts of the application run in the cloud
+	- migrate all 
+- on-prem
+- hybrid
