@@ -16,37 +16,14 @@ Articulate the financial benefits of the AWS Cloud for an organization's cost ma
 Define the core billing, account management, and pricing models    
 Explain how to use pricing tools to make cost-effective choices for AWS services
 
+**Course outline**
 
-Intended audience
-
-This course is intended for:
-
-Sales    
-Legal    
-Marketing    
-Business analysts    
-Project managers    
-AWS Academy students    
-Other IT-related professionals
-
-
-Prerequisites
-
-We recommend that attendees of this course have:
-
-General IT business knowledge    
-General IT technical knowledge
-
-
-Course outline
-
-Module 1: Introduction to Amazon Web Services
-
+**Module 1: Introduction to Amazon Web Services**
 Summarize the benefits of AWS    
 Describe differences between on-demand delivery and cloud deployments    
 Summarize the pay-as-you-go pricing model
-Module 2: Compute in the Cloud
 
+**Module 2: Compute in the Cloud**
 Describe the benefits of Amazon Elastic Compute Cloud (Amazon EC2) at a basic level    
 Identify the different Amazon EC2 instance types    
 Differentiate between the various billing options for Amazon EC2    
@@ -55,14 +32,14 @@ Summarize the benefits of Elastic Load Balancing
 Give an example of the uses for Elastic Load Balancing    
 Summarize the differences between Amazon Simple Notification Service (Amazon SNS) and Amazon Simple Queue Services (Amazon SQS)    
 Summarize additional AWS compute options
-Module 3: Global Infrastructure and Reliability
 
+**Module 3: Global Infrastructure and Reliability**
 Summarize the benefits of the AWS Global Infrastructure    
 Describe the basic concept of Availability Zones    
 Describe the benefits of Amazon CloudFront and Edge locations    
 Compare different methods for provisioning AWS services
-Module 4: Networking
 
+**Module 4: Networking**
 Describe the basic concepts of networking    
 Describe the difference between public and private networking resources    
 Explain a virtual private gateway using a real life scenario    
@@ -71,8 +48,8 @@ Describe the benefit of AWS Direct Connect
 Describe the benefit of hybrid deployments    
 Describe the layers of security used in an IT strategy    
 Describe which services are used to interact with the AWS global network
-Module 5: Storage and Databases
 
+**Module 5: Storage and Databases**
 Summarize the basic concept of storage and databases    
 Describe benefits of Amazon Elastic Block Store (Amazon EBS)    
 Describe benefits of Amazon Simple Storage Service (Amazon S3)    
@@ -81,8 +58,8 @@ Summarize various storage solutions
 Describe the benefits of Amazon Relational Database Service (Amazon RDS)    
 Describe the benefits of Amazon DynamoDB    
 Summarize various database services
-Module 6: Security
 
+**Module 6: Security**
 Explain the benefits of the shared responsibility model    
 Describe multi-factor authentication (MFA)    
 Differentiate between the AWS Identity and Access Management (IAM) security levels    
@@ -90,14 +67,14 @@ Describe security policies at a basic level
 Explain the benefits of AWS Organizations    
 Summarize the benefits of compliance with AWS    
 Explain primary AWS security services at a basic level
-Module 7: Monitoring and Analytics
 
+Module 7: Monitoring and Analytics
 Summarize approaches to monitoring your AWS environment    
 Describe the benefits of Amazon CloudWatch    
 Describe the benefits of AWS CloudTrail    
 Describe the benefits of AWS Trusted Advisor
-Module 8: Pricing and Support
 
+**Module 8: Pricing and Support**
 Understand AWS pricing and support models    
 Describe the AWS Free Tier    
 Describe key benefits of AWS Organizations and consolidated billing    
