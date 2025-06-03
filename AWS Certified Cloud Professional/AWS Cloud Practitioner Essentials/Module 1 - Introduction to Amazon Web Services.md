@@ -74,6 +74,8 @@ Over the internet: being able to access the resources through a console or progr
 
 **Benefits of cloud computing**
 - trade upfront expense for variable expense
+	- upfront expense: data centres, physical servers, or resources you need to invest in before using
+	- variable expense: only pay for what you consume
 - stop spending money to run and maintain data centres
 - stop guessing capacity
 - benefit from massive [[Economies Of Scale]]
