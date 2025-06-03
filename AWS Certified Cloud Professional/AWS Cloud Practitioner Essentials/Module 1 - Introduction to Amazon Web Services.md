@@ -86,4 +86,4 @@ Over the internet: being able to access the resources through a console or progr
 - increase speed and agility
 	- flexibility of using cpanel to  manage infrastructure makes it easy to develop and deploy applications
 - go global in minutes
-	- 
+	- you can support customers all over the world with low latency because of AWS regions
