@@ -28,4 +28,6 @@ Key Concept: *You only pay for what you use*
 - You can always have many servers serving requests
 - Demand isn't always high enough to justify running all the servers (peak demand & low demand)
 - This is what happens in an on-prem environment
-- 
+- You can't instantly triple capacity if required
+- With AWS you don't prepay for services, therefore you don't need to worry about capacity constraints
+- With a click of a button, you can scale up to more servers or less
