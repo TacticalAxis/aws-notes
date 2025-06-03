@@ -49,4 +49,10 @@ Undifferentiated heavy lifting of IT
 
 Over the internet: being able to access the resources through a console or programmatically
 
-Pay-as-you-go pricing: Pay only for what
+Pay-as-you-go pricing: Pay only for what you use
+
+**Deployment models for cloud computing**
+
+Factors to consider when selecting a cloud strategy:
+- required cloud application components
+- pre
