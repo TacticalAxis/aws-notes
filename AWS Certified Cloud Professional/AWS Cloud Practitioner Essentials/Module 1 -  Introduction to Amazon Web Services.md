@@ -25,4 +25,4 @@
 - In more mature systems, things can get very complex
 
 Key Concept: *You only pay for what you use*
-
+- You can always have many servers
