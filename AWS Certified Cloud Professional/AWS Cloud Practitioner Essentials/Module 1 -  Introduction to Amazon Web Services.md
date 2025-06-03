@@ -15,4 +15,5 @@
 - Orbital Satellites
 
 **Fundamental Cloud Compute Model**
-- All 
+- Most systems centered around client/server model
+- A client makes a request, and with permissions, the server 
