@@ -68,7 +68,7 @@ Explain the benefits of AWS Organizations
 Summarize the benefits of compliance with AWS    
 Explain primary AWS security services at a basic level
 
-Module 7: Monitoring and Analytics
+**Module 7: Monitoring and Analytics**
 Summarize approaches to monitoring your AWS environment    
 Describe the benefits of Amazon CloudWatch    
 Describe the benefits of AWS CloudTrail    
@@ -83,21 +83,19 @@ Explain the benefits of AWS Cost Explorer
 Explain the primary benefits of the AWS Pricing Calculator    
 Distinguish between the various AWS Support Plans    
 Describe the benefits of AWS Marketplace
-Module 9: Migration and Innovation
 
+**Module 9: Migration and Innovation**
 Understand migration and innovation in the AWS Cloud    
 Summarize the AWS Cloud Adoption Framework (AWS CAF)    
 Summarize six key factors of a cloud migration strategy    
 Describe the benefits of various AWS data migration solutions, such as AWS Snowcone, AWS Snowball, and AWS Snowmobile    
 Summarize the broad scope of innovative solutions that AWS offers
-Module 10: The Cloud Journey
 
+**Module 10: The Cloud Journey**
 Summarize the six pillars of the AWS Well-Architected Framework    
 Explain the six benefits of cloud computing
-Module 11: AWS Certified Cloud Practitioner Basics
 
+**Module 11: AWS Certified Cloud Practitioner Basics**
 Determine resources for preparing for the AWS Certified Cloud Practitioner examination    
 Describe benefits of becoming AWS Certified
 Course Final Assessment
-
-Solve questions similar to those found within the AWS Cloud Practitioner Certification examination
