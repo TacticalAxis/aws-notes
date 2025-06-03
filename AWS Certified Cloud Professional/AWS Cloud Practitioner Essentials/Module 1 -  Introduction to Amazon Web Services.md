@@ -35,4 +35,5 @@ Key Concept: *You only pay for what you use*
 **Cloud Computing**
 Cloud Computing is on-demand delivery of IT resources over the internet with pay-as-you-go pricing
 
-On-demand-
+On-demand delivery: Indicates AWS has the resources you need when you need them
+*If you need 300 servers, you don't need to request it, you just scale it yourself
