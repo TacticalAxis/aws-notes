@@ -49,16 +49,16 @@ Undifferentiated heavy lifting of IT
 
 Over the internet: being able to access the resources through a console or programmatically
 
-Pay-as-you-go pricing: Pay only for what you use
+*Pay-as-you-go pricing: Pay only for what you use*
 
 **Deployment models for cloud computing**
 
-Factors to consider when selecting a cloud strategy:
+**Factors to consider when selecting a cloud strategy:**
 - required cloud application components
 - preferred resource management tools
 - legacy IT infrastructure requirements
 
-Cloud computing models:
+**Cloud computing models:**
 - cloud-based
 	- all parts of the application run in the cloud
 	- migrate all existing applications to the cloud
@@ -72,10 +72,10 @@ Cloud computing models:
 	- connect cloud-based resources to on-prem infrastructure
 	- integrate cloud-based resources with legacy apps
 
-Benefits of cloud computing
+**Benefits of cloud computing**
 - trade upfront expense for variable expense
 - stop spending money to run and maintain data centres
 - stop guessing capacity
-- benefit from massive [[Economies of scale]]
+- benefit from massive [[Economies Of Scale]]
 - increase speed and agility
 - go global in minutes

@@ -75,27 +75,27 @@
 - Describe the benefits of AWS Trusted Advisor
 
 **Module 8: Pricing and Support**
-Understand AWS pricing and support models    
-Describe the AWS Free Tier    
-Describe key benefits of AWS Organizations and consolidated billing    
-Explain the benefits of AWS Budgets    
-Explain the benefits of AWS Cost Explorer    
-Explain the primary benefits of the AWS Pricing Calculator    
-Distinguish between the various AWS Support Plans    
-Describe the benefits of AWS Marketplace
+- Understand AWS pricing and support models    
+- Describe the AWS Free Tier    
+- Describe key benefits of AWS Organizations and consolidated billing    
+- Explain the benefits of AWS Budgets    
+- Explain the benefits of AWS Cost Explorer    
+- Explain the primary benefits of the AWS Pricing Calculator    
+- Distinguish between the various AWS Support Plans    
+- Describe the benefits of AWS Marketplace
 
 **Module 9: Migration and Innovation**
-Understand migration and innovation in the AWS Cloud    
-Summarize the AWS Cloud Adoption Framework (AWS CAF)    
-Summarize six key factors of a cloud migration strategy    
-Describe the benefits of various AWS data migration solutions, such as AWS Snowcone, AWS Snowball, and AWS Snowmobile    
-Summarize the broad scope of innovative solutions that AWS offers
+- Understand migration and innovation in the AWS Cloud    
+- Summarize the AWS Cloud Adoption Framework (AWS CAF)    
+- Summarize six key factors of a cloud migration strategy    
+- Describe the benefits of various AWS data migration solutions, such as AWS Snowcone, AWS Snowball, and AWS Snowmobile    
+- Summarize the broad scope of innovative solutions that AWS offers
 
 **Module 10: The Cloud Journey**
-Summarize the six pillars of the AWS Well-Architected Framework    
-Explain the six benefits of cloud computing
+- Summarize the six pillars of the AWS Well-Architected Framework    
+- Explain the six benefits of cloud computing
 
 **Module 11: AWS Certified Cloud Practitioner Basics**
-Determine resources for preparing for the AWS Certified Cloud Practitioner examination    
-Describe benefits of becoming AWS Certified
-Course Final Assessment
+- Determine resources for preparing for the AWS Certified Cloud Practitioner examination    
+- Describe benefits of becoming AWS Certified
+- Course Final Assessment
