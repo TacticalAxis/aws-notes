@@ -47,4 +47,6 @@ Undifferentiated heavy lifting of IT
 - For example: your business being better than another based on how well you install some particular software; in the same way keeping backups doesn't make you better than your competition
 - Tasks that are common, repetitive, or time consuming, are what AWS helps businesses with so business can focus on what makes them unique
 
-Over the internet: 
+Over the internet: being able to access the resources through a console or programmatically
+
+Pay-as-you-go pricing: Pay only for what
