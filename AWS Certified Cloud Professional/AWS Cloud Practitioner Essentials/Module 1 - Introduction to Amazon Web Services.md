@@ -76,8 +76,12 @@ Over the internet: being able to access the resources through a console or progr
 - trade upfront expense for variable expense
 	- upfront expense: data centres, physical servers, or resources you need to invest in before using
 	- variable expense: only pay for what you consume
+	- with this, you can experiment as you grow without having to take the financial hit
 - stop spending money to run and maintain data centres
+	- spend less time and money managing physical infrastructure
 - stop guessing capacity
+	- pay for what you use and scale up or down depending on demand
 - benefit from massive [[Economies Of Scale]]
+	- 
 - increase speed and agility
 - go global in minutes
