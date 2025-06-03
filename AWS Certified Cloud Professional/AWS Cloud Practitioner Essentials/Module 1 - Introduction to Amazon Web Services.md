@@ -82,6 +82,8 @@ Over the internet: being able to access the resources through a console or progr
 - stop guessing capacity
 	- pay for what you use and scale up or down depending on demand
 - benefit from massive [[Economies Of Scale]]
-	- 
+	- as AWS customers increase, price goes down
 - increase speed and agility
+	- flexibility of using cpanel to  manage infrastructure makes it easy to develop and deploy applications
 - go global in minutes
+	- 
